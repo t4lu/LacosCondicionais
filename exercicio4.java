@@ -1,5 +1,8 @@
 package lacoCondicional;
-
+/*Função: Exercício 4 Laço Condicional
+ * Autora: Talu - Turma 25
+ * Data: 03.06.2021
+*/
 import java.util.Scanner;
 
 public class exercicio4 {
