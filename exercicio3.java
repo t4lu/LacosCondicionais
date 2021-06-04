@@ -1,5 +1,5 @@
 package lacoCondicional;
-/*Função: Exercício 3 Laço Condicional
+/*Função: Exercício 3 Laço Condicional else if
  * Autora: Talu - Turma 25
  * Data: 03.06.2021
 */
